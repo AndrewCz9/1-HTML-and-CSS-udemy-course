@@ -1,2 +1,2 @@
 # udemy_course
-Learning HTML, CSS, JS and Git/GiotHub
+Learning basics of HTML and CSS to understand more about the development process.
